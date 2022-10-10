@@ -8,7 +8,7 @@ from modules import accounts
 
 import configs
 from enums.enums import ActionsEnum
-
+ 
 # from etherscan.utils.parsing import ResponseParser as parser
 
 class Etherscan:
