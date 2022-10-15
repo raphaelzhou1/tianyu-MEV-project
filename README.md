@@ -2,6 +2,11 @@
 
 This README.md is formatted according to https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+# MEV Resources
+https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o
+https://hackmd.io/@flashbots/mev-in-eth2
+https://www.mev.wiki/resource-list
+
 # Introduction on MEV Strategies:
 2 general financial categories:
 Pure Revenue (exploit-based) vs. risky strategies
@@ -41,7 +46,7 @@ Kirsche’s Aave liquidation bot: https://github.com/dkirsche/aave-liquidator
 ## Symbolic Execution Strategies
 https://www.youtube.com/watch?v=VkSR9jz_C-0
 
-# Timeline/Goals: 
+# Timeline/Goals:
 ## October
 Tianyu: Finish CryptoZombie tutorial
 Gather on-chain data to analyze existing transaction parameters (/delta, /Delta; /G)
